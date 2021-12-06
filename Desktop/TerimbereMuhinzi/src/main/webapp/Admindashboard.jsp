@@ -279,12 +279,9 @@ if(session.getAttribute("uname")==null)
 											<h2 class="StepTitle">Manage Users</h2>
 											
 											<p class="links cl-effect-1">
-												<a href="manage-users.php">
-												<?php $result = mysqli_query($con,"SELECT * FROM users ");
-$num_rows = mysqli_num_rows($result);
-{
-?>
-											Total Users :<?php echo htmlentities($num_rows);  } ?>		
+												<a href="">
+												
+											Total Users :	
 												</a>
 											</p>
 										</div>
@@ -297,12 +294,9 @@ $num_rows = mysqli_num_rows($result);
 											<h2 class="StepTitle">Manage Umuhinzi</h2>
 										
 											<p class="cl-effect-1">
-												<a href="manage-doctors.php">
-												<?php $result1 = mysqli_query($con,"SELECT * FROM doctors ");
-$num_rows1 = mysqli_num_rows($result1);
-{
-?>
-											Total Doctors :<?php echo htmlentities($num_rows1);  } ?>		
+												<a href="">
+
+											Total Umuhinzi :		
 												</a>
 												
 											</p>
@@ -316,13 +310,9 @@ $num_rows1 = mysqli_num_rows($result1);
 											<h2 class="StepTitle"> Umushoramali</h2>
 											
 											<p class="links cl-effect-1">
-												<a href="book-appointment.php">
-													<a href="appointment-history.php">
-												<?php $sql= mysqli_query($con,"SELECT * FROM appointment");
-$num_rows2 = mysqli_num_rows($sql);
-{
-?>
-											Total Appointments :<?php echo htmlentities($num_rows2);  } ?>	
+												<a href="">
+												
+											Total Umushoramali:	
 												</a>
 												</a>
 											</p>
@@ -337,13 +327,8 @@ $num_rows2 = mysqli_num_rows($sql);
 											<h2 class="StepTitle">Contact Queries</h2>
 											
 											<p class="links cl-effect-1">
-												<a href="manage-patient.php">
-<?php $result = mysqli_query($con,"SELECT * FROM tblpatient ");
-$num_rows = mysqli_num_rows($result);
-{
-?>
-Total Patients :<?php echo htmlentities($num_rows);  
-} ?>		
+												<a href="">
+	
 </a>
 											</p>
 										</div>
