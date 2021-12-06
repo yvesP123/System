@@ -162,7 +162,7 @@
 								
 							
 								<li>
-								<a href="umuhinzi-search.php">
+								<a href="umuhinzi-search.jsp">
 									<div class="item-content">
 										<div class="item-media">
 											<i class="ti-search"></i>
