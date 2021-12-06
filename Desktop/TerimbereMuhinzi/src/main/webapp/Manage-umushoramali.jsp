@@ -70,7 +70,7 @@
 										</a>
 									</li>
 									<li>
-										<a href="manage-umushoramali.jsp">
+										<a href="Manage-umushoramali.jsp">
 											<span class="title"> Manage Umushoramali </span>
 										</a>
 									</li>
