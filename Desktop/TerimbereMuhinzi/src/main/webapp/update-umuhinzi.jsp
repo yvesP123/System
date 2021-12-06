@@ -94,7 +94,7 @@
 								<ul class="sub-menu">
 									
 									<li>
-										<a href="manage-users.php">
+										<a href="#">
 											<span class="title"> Manage Users </span>
 										</a>
 									</li>
@@ -162,7 +162,7 @@
 								
 							
 								<li>
-								<a href="patient-search.php">
+								<a href="umuhinzi-search.php">
 									<div class="item-content">
 										<div class="item-media">
 											<i class="ti-search"></i>
@@ -227,7 +227,7 @@
 										</a>
 									</li>
 									<li>
-										<a href="logout.php">
+										<a href="logout">
 											Log Out
 										</a>
 									</li>
