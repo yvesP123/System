@@ -70,7 +70,7 @@
 										</a>
 									</li>
 									<li>
-										<a href="Manage-doctors.php">
+										<a href="manage-umushoramali.jsp">
 											<span class="title"> Manage Umushoramali </span>
 										</a>
 									</li>
@@ -92,7 +92,7 @@
 								<ul class="sub-menu">
 									
 									<li>
-										<a href="manage-users.php">
+										<a href="#">
 											<span class="title"> Manage Users </span>
 										</a>
 									</li>
