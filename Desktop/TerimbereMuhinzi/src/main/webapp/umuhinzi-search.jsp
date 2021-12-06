@@ -90,7 +90,7 @@
 								<ul class="sub-menu">
 									
 									<li>
-										<a href="manage-users.php">
+										<a href="#">
 											<span class="title"> Manage Users </span>
 										</a>
 									</li>
